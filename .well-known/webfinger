@@ -1,0 +1,23 @@
+{
+"subject": "acct:nicklewis@octodon.social",
+"aliases": [
+"https://octodon.social/@nicklewis",
+"https://octodon.social/users/nicklewis"
+],
+"links": [
+{
+"rel": "http://webfinger.net/rel/profile-page",
+"type": "text/html",
+"href": "https://octodon.social/@nicklewis"
+},
+{
+"rel": "self",
+"type": "application/activity+json",
+"href": "https://octodon.social/users/nicklewis"
+},
+{
+"rel": "http://ostatus.org/schema/1.0/subscribe",
+"template": "https://octodon.social/authorize_interaction?uri={uri}"
+}
+]
+}
