@@ -6,7 +6,7 @@ export const NAV_ITEMS: NavItems = {
         title: 'home'
     },
     blog: {
-        path: '/blog',
+        path: '/posts',
         title: 'blog'
     },
     tags: {
