@@ -22,7 +22,7 @@ import grayMatter from 'gray-matter'
             const { data: { title, description, tags }, content } = grayMatter(file)
             index.push({
                 slug: getSlugFromPathname(contentFilePaths[i]),
-                category: 'blog',
+                category: 'posts',
                 title,
                 description,
                 tags,
