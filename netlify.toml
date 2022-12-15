@@ -1,2 +1,6 @@
 [functions]
     external_node_modules = ["astro", "vscode-oniguruma"]
+
+[[redirects]]
+  from = "/.well-known/webfinger"
+  to = "/.well-known/webfinger.json"
