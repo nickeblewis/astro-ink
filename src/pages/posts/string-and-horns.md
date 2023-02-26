@@ -32,3 +32,5 @@ The first is a bit of an exploration of the sounds played on the keyboard and th
 - https://apps.apple.com/gb/app/noise/id1011132019
 - https://apps.apple.com/us/app/kb-1-keyboard-suite/id1437919435
 - https://apps.apple.com/us/app/riffer/id1435691909
+
+This post has also been published at https://hive.blocktunes.net/@nicklewis/hive-sound-library-string-and-horns
