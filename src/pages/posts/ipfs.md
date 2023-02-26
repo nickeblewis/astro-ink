@@ -19,3 +19,4 @@ I have been using AUM for awhile, a superb iOS app that works on both the iPhone
 I have been scanning through my recordings folder for sharing something here, here you are, will write more later on the tools I use, gotta dash out. Teach me for starting a post with little time to spare.
 
 Hope you enjoy the sample above on IPFS!
+3
