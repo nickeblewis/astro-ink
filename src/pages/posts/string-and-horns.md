@@ -22,9 +22,17 @@ Here are two comps I created in September 2021, which I rediscovered only today 
 
 The first is a bit of an exploration of the sounds played on the keyboard and the second was the piece I settled on in the end. It could go well with some other instrumentation perhaps and I will "evolve" it, like I do with all of the projects I keep. I go back and add further layers until I'm done, which can take a very long time!!
 
-[Listen to -> Track 1](https://bafybeibkvzpw6npyffstdnelf7nxkzuzr6nb6g7koej5l2heeg2f7w6ugq.ipfs.nftstorage.link/)
+### Track 1 - The exploration
+<audio controls>
+  <source src="https://bafybeibkvzpw6npyffstdnelf7nxkzuzr6nb6g7koej5l2heeg2f7w6ugq.ipfs.nftstorage.link/" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
-[Listen to -> Track 2](https://bafybeigd7etzbv6ltqazsmxtchjkrf3txkklooskhjpqnf5fca27o6wqwm.ipfs.nftstorage.link/)
+### Track 2 - The final version, shorter
+<audio controls>
+  <source src="https://bafybeigd7etzbv6ltqazsmxtchjkrf3txkklooskhjpqnf5fca27o6wqwm.ipfs.nftstorage.link/" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Apps used
 
