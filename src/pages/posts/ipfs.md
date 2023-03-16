@@ -10,6 +10,20 @@ description: IPFS music
 tags:
   - music
 ---
+
+Recently I started to use nft.storage to host files for online usage and my account on the Hive blockchain. It works very nicely but then I thought, what if I store stuff on IPFS directly? What if NFT.storage went out of action or shut their services down? I'd be scuppered!
+
+A few years ago I intalled IPFS desktop on my previous Mac and I installed the software on my current machine, the files I'd uploaded in the past were still there, of course they were, as when you create a node on the IPFS, it remains there.
+
+How does IPFS work exactly? I'll come back to that question later but first I wanted to see if I could use IPFS directly rather than NFT.storage to store my files, that way I could use my own file naming system, create my own folders to organise things as best as possible. Will it work with images and audio?
+
+Yes, it does, it works brilliantly.
+
+Here are a few photos from recent years that I uploaded the first time I tinkered with IPFS and I've started to add more, now I am happy that this method works.
+
+Why use IPFS as opposed to other cloud hosting options? The short answer is it's not centralised, it's free, there is redundancy, if one node goes down, it doesn't matter, there are others to back it up. Upload once share many times, as I can quite literally copy the markdown code from this blog post and paste it into PeakD for a HIVE version of this post. All of the links will work and besides PeakD uses IPFS to host it's file anyway in a similar way to my self-hosting kind of approach.
+
+
 Good morning, happy Saturday everyone!
 
 ![Taken by me](https://ipfs.io/ipfs/QmeoBxBtczpf7gYKQicMZDmYLD8Yt2xW2SsxvvYN2tjEUg?filename=_DSC0369.jpg)
