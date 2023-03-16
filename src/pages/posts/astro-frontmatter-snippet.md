@@ -25,13 +25,11 @@ I needed to speed up the way in which I start a new article on this blog as I al
 			"---",
 			"layout: ../../layouts/post.astro",
 			"title: $1",
-			"metaTitle: $2",
 			"description: $3",
 			"image: /images/$4.jpg",
 			"date: $5",
 			"tags: $6",
-			"- hampshire",
-			"top: false",	
+			"- hampshire",	
 			"---"
 		]
 	}
