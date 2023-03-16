@@ -19,19 +19,31 @@ I needed to speed up the way in which I start a new article on this blog as I al
 
 ```json
 {
-	"frontmatter": {
-		"prefix": "frt",
-		"body": [
-			"---",
-			"layout: ../../layouts/post.astro",
-			"title: $1",
-			"description: $3",
-			"image: /images/$4.jpg",
-			"date: $5",
-			"tags: $6",
-			"- hampshire",	
-			"---"
-		]
+	{
+		"frontmatter": {
+			"prefix": "frt",
+			"body": [
+				"---",
+				"layout: ../../layouts/post.astro",
+				"title: $1",
+				"author: Nick Lewis",
+				"authorTwitter: nicklewis",
+				"description: $3",
+				"date: $5",
+				"tags: $6",
+				"- hampshire",
+				"---"
+			]
+		},
+		"aud": {
+			"prefix": "aud",
+			"body": [
+				"<audio controls>",
+				"<source src='$1' type='audio/mpeg'>",
+				"Your browser does not support the audio element.",
+				"</audio>"
+			]
+		}
 	}
 }
 ```
